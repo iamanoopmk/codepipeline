@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-python test.py
+python /home/ubuntu/code/test.py
