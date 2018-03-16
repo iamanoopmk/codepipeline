@@ -1,1 +1,1 @@
-print "master auto deploy"
+print "development auto deploy"
