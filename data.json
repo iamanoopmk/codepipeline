@@ -1,0 +1,2200 @@
+[
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG003",
+    "value": 15.890556,
+    "date": "201912"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG001",
+    "value": 11.33,
+    "date": "201912"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": null,
+    "value": 12.966296,
+    "date": "201912"
+  },
+  {
+    "variable": "number_of_days",
+    "display_name": "Number Of Days",
+    "device__device_name": null,
+    "value": 31.0,
+    "date": "201912"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG003",
+    "value": 90.793011,
+    "date": "201912"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": null,
+    "value": 94.571386,
+    "date": "201912"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG002",
+    "value": 90.251793,
+    "date": "201912"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG003",
+    "value": 683.617986,
+    "date": "201912"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG002",
+    "value": 60.564287,
+    "date": "201912"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": null,
+    "value": 203.143025,
+    "date": "201912"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": null,
+    "value": 87.58496,
+    "date": "201912"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG001",
+    "value": 547.305929,
+    "date": "201912"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": null,
+    "value": 277.103683,
+    "date": "201912"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG002",
+    "value": 588.273984,
+    "date": "201912"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG001",
+    "value": 128.220946,
+    "date": "201912"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG002",
+    "value": 72.52666,
+    "date": "201912"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG003",
+    "value": 75.518601,
+    "date": "201912"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG001",
+    "value": 129.058421,
+    "date": "201912"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG002",
+    "value": 90.941761,
+    "date": "201912"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG003",
+    "value": 89.20899,
+    "date": "201912"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG003",
+    "value": 92.51968,
+    "date": "201912"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": null,
+    "value": 293.271751,
+    "date": "201912"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG001",
+    "value": 89.76327,
+    "date": "201912"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG003",
+    "value": 489.603387,
+    "date": "201912"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG001",
+    "value": 9.684443,
+    "date": "201912"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": null,
+    "value": 9.430424,
+    "date": "201912"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG002",
+    "value": 72.531125,
+    "date": "201912"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": null,
+    "value": 1625.183299,
+    "date": "201912"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG002",
+    "value": 9.400995,
+    "date": "201912"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG003",
+    "value": 9.205835,
+    "date": "201912"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": null,
+    "value": 89.97134,
+    "date": "201912"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG002",
+    "value": 81.0,
+    "date": "201912"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG003",
+    "value": 53.0,
+    "date": "201912"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG001",
+    "value": 101.0,
+    "date": "201912"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG001",
+    "value": 68.809453,
+    "date": "201912"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG002",
+    "value": 0.895278,
+    "date": "201912"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG003",
+    "value": 73.769285,
+    "date": "201912"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG001",
+    "value": 82.653438,
+    "date": "201912"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG001",
+    "value": 672.181942,
+    "date": "201912"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG003",
+    "value": 89.84965,
+    "date": "201912"
+  },
+  {
+    "variable": "projected_wind_speed",
+    "display_name": "Projected Wind Speed",
+    "device__device_name": null,
+    "value": 9.19,
+    "date": "201912"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG002",
+    "value": 97.379032,
+    "date": "201912"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": null,
+    "value": 2024.409887,
+    "date": "201912"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": null,
+    "value": 235.0,
+    "date": "201912"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG003",
+    "value": 1.745556,
+    "date": "201912"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG001",
+    "value": 1.269722,
+    "date": "201912"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG001",
+    "value": 95.542115,
+    "date": "201912"
+  },
+  {
+    "variable": "projected_power",
+    "display_name": "Projected Power",
+    "device__device_name": null,
+    "value": 2330.0,
+    "date": "201912"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": null,
+    "value": 1.303519,
+    "date": "201912"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG002",
+    "value": 668.609959,
+    "date": "201912"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG002",
+    "value": 11.678333,
+    "date": "201912"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG003",
+    "value": 0.411046,
+    "date": "20201"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG002",
+    "value": 78.304374,
+    "date": "20201"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG003",
+    "value": 99.926498,
+    "date": "20201"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG001",
+    "value": 84.381292,
+    "date": "20201"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": null,
+    "value": 87.537388,
+    "date": "20201"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG002",
+    "value": 93.234767,
+    "date": "20201"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG003",
+    "value": 99.977599,
+    "date": "20201"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG001",
+    "value": 96.931004,
+    "date": "20201"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG002",
+    "value": 529.837955,
+    "date": "20201"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": null,
+    "value": 1308.565551,
+    "date": "20201"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG002",
+    "value": 9.293852,
+    "date": "20201"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG003",
+    "value": 8.618882,
+    "date": "20201"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": null,
+    "value": 481.455663,
+    "date": "20201"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG003",
+    "value": 94.746299,
+    "date": "20201"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG003",
+    "value": 39.087535,
+    "date": "20201"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG001",
+    "value": 545.748299,
+    "date": "20201"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG003",
+    "value": 559.231328,
+    "date": "20201"
+  },
+  {
+    "variable": "projected_power",
+    "display_name": "Projected Power",
+    "device__device_name": null,
+    "value": 1969.0,
+    "date": "20201"
+  },
+  {
+    "variable": "projected_wind_speed",
+    "display_name": "Projected Wind Speed",
+    "device__device_name": null,
+    "value": 8.92,
+    "date": "20201"
+  },
+  {
+    "variable": "number_of_days",
+    "display_name": "Number Of Days",
+    "device__device_name": null,
+    "value": 31.0,
+    "date": "20201"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": null,
+    "value": 121.562222,
+    "date": "20201"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG001",
+    "value": 16.468056,
+    "date": "20201"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG003",
+    "value": 338.543056,
+    "date": "20201"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG002",
+    "value": 9.675556,
+    "date": "20201"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": null,
+    "value": 7.264444,
+    "date": "20201"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG001",
+    "value": 5.003333,
+    "date": "20201"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG003",
+    "value": 9.855,
+    "date": "20201"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": null,
+    "value": 122.0,
+    "date": "20201"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG001",
+    "value": 67.0,
+    "date": "20201"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG003",
+    "value": 4.0,
+    "date": "20201"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG002",
+    "value": 51.0,
+    "date": "20201"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": null,
+    "value": 642.699742,
+    "date": "20201"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG001",
+    "value": 315.825888,
+    "date": "20201"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG003",
+    "value": 39.255083,
+    "date": "20201"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG002",
+    "value": 287.618771,
+    "date": "20201"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": null,
+    "value": 9.156027,
+    "date": "20201"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG001",
+    "value": 9.555348,
+    "date": "20201"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG002",
+    "value": 6.935,
+    "date": "20201"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG002",
+    "value": 222.373945,
+    "date": "20201"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": null,
+    "value": 200.601536,
+    "date": "20201"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": null,
+    "value": 96.714456,
+    "date": "20201"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG002",
+    "value": 396.354517,
+    "date": "20201"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG003",
+    "value": 553.514134,
+    "date": "20201"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG001",
+    "value": 358.6969,
+    "date": "20201"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG002",
+    "value": 114.95166,
+    "date": "20201"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": null,
+    "value": 1634.817582,
+    "date": "20201"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG001",
+    "value": 85.238831,
+    "date": "20201"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG001",
+    "value": 219.994183,
+    "date": "20201"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG001",
+    "value": 70.430889,
+    "date": "20201"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG002",
+    "value": 70.111029,
+    "date": "20201"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": null,
+    "value": 78.429406,
+    "date": "20201"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": null,
+    "value": 89.899026,
+    "date": "20202"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG003",
+    "value": 95.525663,
+    "date": "20202"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": null,
+    "value": 210.908333,
+    "date": "20202"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG002",
+    "value": 99.952107,
+    "date": "20202"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": null,
+    "value": 97.06258,
+    "date": "20202"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG002",
+    "value": 552.862041,
+    "date": "20202"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": null,
+    "value": 1982.125204,
+    "date": "20202"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG003",
+    "value": 9.565253,
+    "date": "20202"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG002",
+    "value": 186.394365,
+    "date": "20202"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG003",
+    "value": 30.974964,
+    "date": "20202"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG002",
+    "value": 9.874682,
+    "date": "20202"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG002",
+    "value": 79.008027,
+    "date": "20202"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG001",
+    "value": 745.62821,
+    "date": "20202"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": null,
+    "value": 2270.922504,
+    "date": "20202"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG002",
+    "value": 158.810286,
+    "date": "20202"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG003",
+    "value": 14.336092,
+    "date": "20202"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG002",
+    "value": 756.528613,
+    "date": "20202"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG003",
+    "value": 768.76568,
+    "date": "20202"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG001",
+    "value": 45.261714,
+    "date": "20202"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG002",
+    "value": 125.050556,
+    "date": "20202"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG003",
+    "value": 31.141389,
+    "date": "20202"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG001",
+    "value": 54.716389,
+    "date": "20202"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG003",
+    "value": 98.135181,
+    "date": "20202"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG001",
+    "value": 93.929721,
+    "date": "20202"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": null,
+    "value": 90.357643,
+    "date": "20202"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG003",
+    "value": 100.0,
+    "date": "20202"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG001",
+    "value": 91.235632,
+    "date": "20202"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG003",
+    "value": 715.730767,
+    "date": "20202"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG001",
+    "value": 713.532396,
+    "date": "20202"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG001",
+    "value": 10.708795,
+    "date": "20202"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": null,
+    "value": 10.049577,
+    "date": "20202"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG001",
+    "value": 55.127675,
+    "date": "20202"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": null,
+    "value": 272.497004,
+    "date": "20202"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG002",
+    "value": 70.0,
+    "date": "20202"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG003",
+    "value": 28.0,
+    "date": "20202"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG001",
+    "value": 19.0,
+    "date": "20202"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": null,
+    "value": 218.408092,
+    "date": "20202"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": null,
+    "value": 117.0,
+    "date": "20202"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG002",
+    "value": 3.468889,
+    "date": "20202"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG003",
+    "value": 1.555,
+    "date": "20202"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG001",
+    "value": 3.186667,
+    "date": "20202"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": null,
+    "value": 2.736852,
+    "date": "20202"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG002",
+    "value": 20.933611,
+    "date": "20202"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG003",
+    "value": 47.143056,
+    "date": "20202"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG001",
+    "value": 56.491667,
+    "date": "20202"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": null,
+    "value": 41.522778,
+    "date": "20202"
+  },
+  {
+    "variable": "number_of_days",
+    "display_name": "Number Of Days",
+    "device__device_name": null,
+    "value": 29.0,
+    "date": "20202"
+  },
+  {
+    "variable": "projected_wind_speed",
+    "display_name": "Projected Wind Speed",
+    "device__device_name": null,
+    "value": 9.71,
+    "date": "20202"
+  },
+  {
+    "variable": "projected_power",
+    "display_name": "Projected Power",
+    "device__device_name": null,
+    "value": 2334.0,
+    "date": "20202"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG001",
+    "value": 92.13845,
+    "date": "20202"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG002",
+    "value": 82.032966,
+    "date": "20202"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG002",
+    "value": 95.868232,
+    "date": "20203"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG003",
+    "value": 44.853772,
+    "date": "20203"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": null,
+    "value": 91.279682,
+    "date": "20203"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG002",
+    "value": 92.266389,
+    "date": "20203"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG001",
+    "value": 22.059409,
+    "date": "20203"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG003",
+    "value": 73.095,
+    "date": "20203"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": null,
+    "value": 162.781412,
+    "date": "20203"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": null,
+    "value": 194.6375,
+    "date": "20203"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG002",
+    "value": 85.056788,
+    "date": "20203"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG003",
+    "value": 90.175403,
+    "date": "20203"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG001",
+    "value": 96.065039,
+    "date": "20203"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": null,
+    "value": 91.661492,
+    "date": "20203"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG002",
+    "value": 97.311828,
+    "date": "20203"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG002",
+    "value": 641.550365,
+    "date": "20203"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG003",
+    "value": 681.31816,
+    "date": "20203"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": null,
+    "value": 93.309438,
+    "date": "20203"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": null,
+    "value": 1.03463,
+    "date": "20203"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": null,
+    "value": 194.6375,
+    "date": "20203"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG001",
+    "value": 9.945755,
+    "date": "20203"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG003",
+    "value": 9.194922,
+    "date": "20203"
+  },
+  {
+    "variable": "projected_power",
+    "display_name": "Projected Power",
+    "device__device_name": null,
+    "value": 2097.0,
+    "date": "20203"
+  },
+  {
+    "variable": "projected_wind_speed",
+    "display_name": "Projected Wind Speed",
+    "device__device_name": null,
+    "value": 9.91,
+    "date": "20203"
+  },
+  {
+    "variable": "number_of_days",
+    "display_name": "Number Of Days",
+    "device__device_name": null,
+    "value": 31.0,
+    "date": "20203"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": null,
+    "value": 23.459907,
+    "date": "20203"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG001",
+    "value": 23.240833,
+    "date": "20203"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG003",
+    "value": 17.648333,
+    "date": "20203"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG002",
+    "value": 29.490556,
+    "date": "20203"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG002",
+    "value": 9.556743,
+    "date": "20203"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG001",
+    "value": 0.860833,
+    "date": "20203"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG003",
+    "value": 0.925,
+    "date": "20203"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG002",
+    "value": 1.318056,
+    "date": "20203"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": null,
+    "value": 183.0,
+    "date": "20203"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG001",
+    "value": 34.0,
+    "date": "20203"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG003",
+    "value": 79.0,
+    "date": "20203"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG002",
+    "value": 70.0,
+    "date": "20203"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG001",
+    "value": 29.276111,
+    "date": "20203"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG002",
+    "value": 565.947852,
+    "date": "20203"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG003",
+    "value": 73.095,
+    "date": "20203"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG001",
+    "value": 632.268643,
+    "date": "20203"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG002",
+    "value": 92.266389,
+    "date": "20203"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": null,
+    "value": 9.565807,
+    "date": "20203"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG001",
+    "value": 608.136621,
+    "date": "20203"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": null,
+    "value": 1955.137169,
+    "date": "20203"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG003",
+    "value": 556.409396,
+    "date": "20203"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG001",
+    "value": 88.306452,
+    "date": "20203"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG003",
+    "value": 94.310036,
+    "date": "20203"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG001",
+    "value": 96.51107,
+    "date": "20203"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG003",
+    "value": 93.416619,
+    "date": "20203"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG001",
+    "value": 29.276111,
+    "date": "20203"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG002",
+    "value": 87.598604,
+    "date": "20203"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": null,
+    "value": 1730.493869,
+    "date": "20203"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG001",
+    "value": 21.998887,
+    "date": "20204"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG003",
+    "value": 429.206223,
+    "date": "20204"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": null,
+    "value": 1558.025171,
+    "date": "20204"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG001",
+    "value": 593.687365,
+    "date": "20204"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG002",
+    "value": 8.690577,
+    "date": "20204"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG003",
+    "value": 88.799263,
+    "date": "20204"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": null,
+    "value": 90.43049,
+    "date": "20204"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG001",
+    "value": 96.11496,
+    "date": "20204"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG002",
+    "value": 535.131583,
+    "date": "20204"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG003",
+    "value": 90.884452,
+    "date": "20204"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": null,
+    "value": 91.711973,
+    "date": "20204"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG001",
+    "value": 96.1326,
+    "date": "20204"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG002",
+    "value": 85.544167,
+    "date": "20204"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG003",
+    "value": 8.28103,
+    "date": "20204"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": null,
+    "value": 8.642075,
+    "date": "20204"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG001",
+    "value": 8.95462,
+    "date": "20204"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG002",
+    "value": 85.710833,
+    "date": "20204"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG003",
+    "value": 65.532222,
+    "date": "20204"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG002",
+    "value": 60.0,
+    "date": "20204"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": null,
+    "value": 178.465833,
+    "date": "20204"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG003",
+    "value": 77.0,
+    "date": "20204"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": null,
+    "value": 169.668172,
+    "date": "20204"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": null,
+    "value": 179.021389,
+    "date": "20204"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG001",
+    "value": 27.845278,
+    "date": "20204"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG001",
+    "value": 55.0,
+    "date": "20204"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": null,
+    "value": 192.0,
+    "date": "20204"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": null,
+    "value": 1761.759948,
+    "date": "20204"
+  },
+  {
+    "variable": "number_of_days",
+    "display_name": "Number Of Days",
+    "device__device_name": null,
+    "value": 30.0,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_resolve_time",
+    "display_name": "mean_fault_resolve_time",
+    "device__device_name": "WTG003",
+    "value": 0.842222,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_resolve_time",
+    "display_name": "mean_fault_resolve_time",
+    "device__device_name": "WTG001",
+    "value": 0.494722,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_resolve_time",
+    "display_name": "mean_fault_resolve_time",
+    "device__device_name": null,
+    "value": 1.005741,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_time_between",
+    "display_name": "mean_time_between_faults",
+    "device__device_name": "WTG003",
+    "value": 7.351389,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_time_between",
+    "display_name": "mean_time_between_faults",
+    "device__device_name": "WTG002",
+    "value": 9.851389,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_time_between",
+    "display_name": "mean_time_between_faults",
+    "device__device_name": "WTG001",
+    "value": 11.793333,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_time_between",
+    "display_name": "mean_time_between_faults",
+    "device__device_name": null,
+    "value": 9.66537,
+    "date": "20204"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG002",
+    "value": 77.410295,
+    "date": "20204"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG003",
+    "value": 627.271145,
+    "date": "20204"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG001",
+    "value": 566.246082,
+    "date": "20204"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG003",
+    "value": 70.25899,
+    "date": "20204"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG002",
+    "value": 86.377248,
+    "date": "20204"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG002",
+    "value": 88.118866,
+    "date": "20204"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG003",
+    "value": 65.631944,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_resolve_time",
+    "display_name": "mean_fault_resolve_time",
+    "device__device_name": "WTG002",
+    "value": 1.680278,
+    "date": "20204"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG002",
+    "value": 568.24272,
+    "date": "20204"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG001",
+    "value": 27.222778,
+    "date": "20204"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG002",
+    "value": 98.449074,
+    "date": "20204"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG003",
+    "value": 98.333333,
+    "date": "20204"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG001",
+    "value": 98.078704,
+    "date": "20204"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": null,
+    "value": 98.287037,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG002",
+    "value": 1.680278,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG003",
+    "value": 0.850833,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG001",
+    "value": 0.494722,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": null,
+    "value": 1.008611,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG002",
+    "value": 11.624722,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG003",
+    "value": 10.045278,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG001",
+    "value": 22.744444,
+    "date": "20204"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": null,
+    "value": 14.804815,
+    "date": "20204"
+  },
+  {
+    "variable": "projected_wind_speed",
+    "display_name": "Projected Wind Speed",
+    "device__device_name": null,
+    "value": 9.33,
+    "date": "20204"
+  },
+  {
+    "variable": "projected_power",
+    "display_name": "Projected Power",
+    "device__device_name": null,
+    "value": 2369.0,
+    "date": "20204"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG002",
+    "value": 50.102403,
+    "date": "20205"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG003",
+    "value": 13.860325,
+    "date": "20205"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": "WTG001",
+    "value": 5.049521,
+    "date": "20205"
+  },
+  {
+    "variable": "energy_loss",
+    "display_name": "Total Contractual Energy Loss",
+    "device__device_name": null,
+    "value": 69.012248,
+    "date": "20205"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG003",
+    "value": 97.153379,
+    "date": "20205"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG001",
+    "value": 99.129722,
+    "date": "20205"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": null,
+    "value": 95.320522,
+    "date": "20205"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG002",
+    "value": 48.235973,
+    "date": "20205"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG003",
+    "value": 13.303211,
+    "date": "20205"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": "WTG001",
+    "value": 4.067098,
+    "date": "20205"
+  },
+  {
+    "variable": "lost_time",
+    "display_name": "Lost Production Time",
+    "device__device_name": null,
+    "value": 65.606282,
+    "date": "20205"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG002",
+    "value": 86.35436,
+    "date": "20205"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG003",
+    "value": 96.391372,
+    "date": "20205"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": "WTG001",
+    "value": 98.620325,
+    "date": "20205"
+  },
+  {
+    "variable": "eba_percentage",
+    "display_name": "Energy Based Availability",
+    "device__device_name": null,
+    "value": 93.788686,
+    "date": "20205"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG002",
+    "value": 99.17769,
+    "date": "20205"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG003",
+    "value": 99.213443,
+    "date": "20205"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": "WTG001",
+    "value": 99.213443,
+    "date": "20205"
+  },
+  {
+    "variable": "data_quality",
+    "display_name": "Data Quality",
+    "device__device_name": null,
+    "value": 99.201525,
+    "date": "20205"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG002",
+    "value": 322.304636,
+    "date": "20205"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG003",
+    "value": 326.574699,
+    "date": "20205"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": "WTG001",
+    "value": 374.85666,
+    "date": "20205"
+  },
+  {
+    "variable": "total_production",
+    "display_name": "Total Production",
+    "device__device_name": null,
+    "value": 1023.735996,
+    "date": "20205"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG002",
+    "value": 8.552791,
+    "date": "20205"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG003",
+    "value": 8.318992,
+    "date": "20205"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": "WTG001",
+    "value": 8.837238,
+    "date": "20205"
+  },
+  {
+    "variable": "wind_speed",
+    "display_name": "Wind Speed",
+    "device__device_name": null,
+    "value": 8.569674,
+    "date": "20205"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG002",
+    "value": 47.948889,
+    "date": "20205"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG003",
+    "value": 13.27,
+    "date": "20205"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": "WTG001",
+    "value": 4.056944,
+    "date": "20205"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": null,
+    "value": 1117.24988,
+    "date": "20205"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG001",
+    "value": 365.993511,
+    "date": "20205"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG003",
+    "value": 384.08852,
+    "date": "20205"
+  },
+  {
+    "variable": "tba_percentage",
+    "display_name": "Time Based Availability",
+    "device__device_name": "WTG002",
+    "value": 89.678465,
+    "date": "20205"
+  },
+  {
+    "variable": "fault_duration",
+    "display_name": "Total Alarm Duration",
+    "device__device_name": null,
+    "value": 65.275833,
+    "date": "20205"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG002",
+    "value": 58.0,
+    "date": "20205"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG003",
+    "value": 35.0,
+    "date": "20205"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": "WTG001",
+    "value": 12.0,
+    "date": "20205"
+  },
+  {
+    "variable": "fault_count",
+    "display_name": "Total Count Of Alarms",
+    "device__device_name": null,
+    "value": 105.0,
+    "date": "20205"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG002",
+    "value": 0.909444,
+    "date": "20205"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG003",
+    "value": 0.378889,
+    "date": "20205"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": "WTG001",
+    "value": 0.338056,
+    "date": "20205"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG002",
+    "value": 8.636389,
+    "date": "20205"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG003",
+    "value": 12.211667,
+    "date": "20205"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": "WTG001",
+    "value": 27.502222,
+    "date": "20205"
+  },
+  {
+    "variable": "mean_time_between_alarms",
+    "display_name": "Mean Time Between Alarms",
+    "device__device_name": null,
+    "value": 16.116759,
+    "date": "20205"
+  },
+  {
+    "variable": "number_of_days",
+    "display_name": "Number Of Days",
+    "device__device_name": null,
+    "value": 19.0,
+    "date": "20205"
+  },
+  {
+    "variable": "projected_wind_speed",
+    "display_name": "Projected Wind Speed",
+    "device__device_name": null,
+    "value": 8.45,
+    "date": "20205"
+  },
+  {
+    "variable": "projected_power",
+    "display_name": "Projected Power",
+    "device__device_name": null,
+    "value": 1847.0,
+    "date": "20205"
+  },
+  {
+    "variable": "reference_energy",
+    "display_name": "Total Reference Energy",
+    "device__device_name": "WTG002",
+    "value": 367.167849,
+    "date": "20205"
+  },
+  {
+    "variable": "mean_time_to_resolve",
+    "display_name": "Mean Time to Resolve Alarm",
+    "device__device_name": null,
+    "value": 0.54213,
+    "date": "20205"
+  }
+]
