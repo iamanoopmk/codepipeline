@@ -6,7 +6,7 @@
     "Apr": 98.287037,
     "May": 99.201525,
     "display_name": "Data Quality",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Jan": 93.234767,
@@ -53,7 +53,7 @@
   {
     "Apr": 9.66537,
     "display_name": "mean_time_between_faults",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Jan": 1969.0,
@@ -62,7 +62,7 @@
     "Apr": 2369.0,
     "May": 1847.0,
     "display_name": "Projected Power",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 0.842222,
@@ -77,7 +77,7 @@
   {
     "Apr": 1.005741,
     "display_name": "mean_fault_resolve_time",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 1.680278,
@@ -100,7 +100,7 @@
     "Feb": 89.899026,
     "May": 95.320522,
     "display_name": "Time Based Availability",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 96.1326,
@@ -145,7 +145,7 @@
     "Mar": 91.661492,
     "May": 93.788686,
     "display_name": "Energy Based Availability",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 96.11496,
@@ -172,7 +172,7 @@
     "Jan": 481.455663,
     "May": 65.606282,
     "display_name": "Lost Production Time",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 27.845278,
@@ -217,7 +217,7 @@
     "Mar": 194.6375,
     "May": 65.275833,
     "display_name": "Total Alarm Duration",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 27.222778,
@@ -235,7 +235,7 @@
     "Mar": 162.781412,
     "May": 69.012248,
     "display_name": "Total Contractual Energy Loss",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 77.410295,
@@ -298,7 +298,7 @@
     "Mar": 183.0,
     "May": 105.0,
     "display_name": "Total Count Of Alarms",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 8.690577,
@@ -325,7 +325,7 @@
     "Mar": 9.565807,
     "May": 8.569674,
     "display_name": "Wind Speed",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 8.95462,
@@ -361,7 +361,7 @@
     "Mar": 1.03463,
     "May": 0.54213,
     "display_name": "Mean Time to Resolve Alarm",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Feb": 3.468889,
@@ -379,7 +379,7 @@
     "Mar": 31.0,
     "May": 19.0,
     "display_name": "Number Of Days",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Jan": 9.675556,
@@ -415,7 +415,7 @@
     "Apr": 14.804815,
     "May": 16.116759,
     "display_name": "Mean Time Between Alarms",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 1761.759948,
@@ -424,7 +424,7 @@
     "Mar": 1955.137169,
     "May": 1117.24988,
     "display_name": "Total Reference Energy",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 627.271145,
@@ -460,7 +460,7 @@
     "Apr": 9.33,
     "May": 8.45,
     "display_name": "Projected Wind Speed",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 429.206223,
@@ -478,7 +478,7 @@
     "Feb": 1982.125204,
     "May": 1023.735996,
     "display_name": "Total Production",
-    "hierarchy": "parent"
+    "hierarchy": null
   },
   {
     "Apr": 593.687365,
