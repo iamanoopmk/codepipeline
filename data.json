@@ -1,59 +1,33 @@
 [
   {
-    "Jan": 96.714456,
-    "Mar": 93.309438,
-    "Feb": 97.06258,
-    "Apr": 98.287037,
-    "May": 99.201525,
-    "display_name": "Data Quality",
-    "hierarchy": null
-  },
-  {
-    "Jan": 93.234767,
-    "Mar": 97.311828,
-    "Feb": 99.952107,
-    "Apr": 98.449074,
-    "May": 99.17769,
-    "display_name": "Data Quality",
-    "hierarchy": "WTG002"
-  },
-  {
-    "Jan": 99.977599,
-    "Feb": 100.0,
-    "Mar": 94.310036,
-    "Apr": 98.333333,
-    "May": 99.213443,
-    "display_name": "Data Quality",
-    "hierarchy": "WTG003"
-  },
-  {
-    "Jan": 96.931004,
-    "Feb": 91.235632,
-    "Mar": 88.306452,
-    "Apr": 98.078704,
-    "May": 99.213443,
-    "display_name": "Data Quality",
-    "hierarchy": "WTG001"
-  },
-  {
-    "Apr": 7.351389,
-    "display_name": "mean_time_between_faults",
-    "hierarchy": "WTG003"
-  },
-  {
-    "Apr": 9.851389,
-    "display_name": "mean_time_between_faults",
-    "hierarchy": "WTG002"
-  },
-  {
-    "Apr": 11.793333,
-    "display_name": "mean_time_between_faults",
-    "hierarchy": "WTG001"
+    "Jan": 8.92,
+    "Feb": 9.71,
+    "Mar": 9.91,
+    "Apr": 9.33,
+    "May": 8.45,
+    "devices": [],
+    "display_name": "Projected Wind Speed"
   },
   {
     "Apr": 9.66537,
-    "display_name": "mean_time_between_faults",
-    "hierarchy": null
+    "devices": [
+      {
+        "Apr": 7.351389,
+        "device_name": "WTG003",
+        "display_name": "mean_time_between_faults"
+      },
+      {
+        "Apr": 9.851389,
+        "device_name": "WTG002",
+        "display_name": "mean_time_between_faults"
+      },
+      {
+        "Apr": 11.793333,
+        "device_name": "WTG001",
+        "display_name": "mean_time_between_faults"
+      }
+    ],
+    "display_name": "mean_time_between_faults"
   },
   {
     "Jan": 1969.0,
@@ -61,154 +35,79 @@
     "Mar": 2097.0,
     "Apr": 2369.0,
     "May": 1847.0,
-    "display_name": "Projected Power",
-    "hierarchy": null
+    "devices": [],
+    "display_name": "Projected Power"
   },
   {
-    "Apr": 0.842222,
-    "display_name": "mean_fault_resolve_time",
-    "hierarchy": "WTG003"
+    "Apr": 169.70089,
+    "Jan": 200.601536,
+    "Feb": 218.408092,
+    "Mar": 162.781412,
+    "May": 69.012248,
+    "devices": [
+      {
+        "Apr": 77.443013,
+        "Feb": 158.810286,
+        "Jan": 114.95166,
+        "Mar": 95.868232,
+        "May": 50.102403,
+        "device_name": "WTG002",
+        "display_name": "Total Contractual Energy Loss"
+      },
+      {
+        "Apr": 70.25899,
+        "Feb": 14.336092,
+        "Jan": 0.411046,
+        "Mar": 44.853772,
+        "May": 13.860325,
+        "device_name": "WTG003",
+        "display_name": "Total Contractual Energy Loss"
+      },
+      {
+        "Apr": 21.998887,
+        "Jan": 85.238831,
+        "Feb": 45.261714,
+        "Mar": 22.059409,
+        "May": 5.049521,
+        "device_name": "WTG001",
+        "display_name": "Total Contractual Energy Loss"
+      }
+    ],
+    "display_name": "Total Contractual Energy Loss"
   },
   {
-    "Apr": 0.494722,
-    "display_name": "mean_fault_resolve_time",
-    "hierarchy": "WTG001"
+    "Apr": 5400.0,
+    "May": 5400.0,
+    "devices": [
+      {
+        "Apr": 5400.0,
+        "May": 5400.0,
+        "device_name": "WTG002",
+        "display_name": "Production Capcity"
+      },
+      {
+        "Apr": 5400.0,
+        "May": 5400.0,
+        "device_name": "WTG003",
+        "display_name": "Production Capcity"
+      },
+      {
+        "Apr": 5400.0,
+        "May": 5400.0,
+        "device_name": "WTG001",
+        "display_name": "Production Capcity"
+      }
+    ],
+    "display_name": "Production Capcity"
   },
   {
-    "Apr": 1.005741,
-    "display_name": "mean_fault_resolve_time",
-    "hierarchy": null
-  },
-  {
-    "Apr": 1.680278,
-    "display_name": "mean_fault_resolve_time",
-    "hierarchy": "WTG002"
-  },
-  {
-    "Apr": 90.884452,
-    "Jan": 94.746299,
-    "Mar": 90.175403,
-    "Feb": 95.525663,
-    "May": 97.153379,
-    "display_name": "Time Based Availability",
-    "hierarchy": "WTG003"
-  },
-  {
-    "Apr": 91.711973,
-    "Jan": 78.429406,
-    "Mar": 91.279682,
-    "Feb": 89.899026,
-    "May": 95.320522,
-    "display_name": "Time Based Availability",
-    "hierarchy": null
-  },
-  {
-    "Apr": 96.1326,
-    "Jan": 70.430889,
-    "Feb": 92.13845,
-    "Mar": 96.065039,
-    "May": 99.129722,
-    "display_name": "Time Based Availability",
-    "hierarchy": "WTG001"
-  },
-  {
-    "Apr": 88.118866,
-    "Mar": 87.598604,
-    "Feb": 82.032966,
-    "Jan": 70.111029,
-    "May": 89.678465,
-    "display_name": "Time Based Availability",
-    "hierarchy": "WTG002"
-  },
-  {
-    "Apr": 86.377248,
-    "Jan": 78.304374,
-    "Mar": 85.056788,
-    "May": 86.35436,
-    "Feb": 79.008027,
-    "display_name": "Energy Based Availability",
-    "hierarchy": "WTG002"
-  },
-  {
-    "Apr": 88.799263,
-    "Jan": 99.926498,
-    "Feb": 98.135181,
-    "Mar": 93.416619,
-    "May": 96.391372,
-    "display_name": "Energy Based Availability",
-    "hierarchy": "WTG003"
-  },
-  {
-    "Apr": 90.43049,
-    "Jan": 87.537388,
-    "Feb": 90.357643,
-    "Mar": 91.661492,
-    "May": 93.788686,
-    "display_name": "Energy Based Availability",
-    "hierarchy": null
-  },
-  {
-    "Apr": 96.11496,
-    "Jan": 84.381292,
-    "Feb": 93.929721,
-    "Mar": 96.51107,
-    "May": 98.620325,
-    "display_name": "Energy Based Availability",
-    "hierarchy": "WTG001"
-  },
-  {
-    "Apr": 85.544167,
-    "Jan": 222.373945,
-    "Feb": 125.050556,
-    "Mar": 92.266389,
-    "May": 48.235973,
-    "display_name": "Lost Production Time",
-    "hierarchy": "WTG002"
-  },
-  {
-    "Apr": 179.021389,
-    "Mar": 194.6375,
-    "Feb": 210.908333,
-    "Jan": 481.455663,
-    "May": 65.606282,
-    "display_name": "Lost Production Time",
-    "hierarchy": null
-  },
-  {
-    "Apr": 27.845278,
-    "Jan": 219.994183,
-    "Feb": 54.716389,
-    "Mar": 29.276111,
-    "May": 4.067098,
-    "display_name": "Lost Production Time",
-    "hierarchy": "WTG001"
-  },
-  {
-    "Apr": 65.631944,
-    "Jan": 39.087535,
-    "Feb": 31.141389,
-    "Mar": 73.095,
-    "May": 13.303211,
-    "display_name": "Lost Production Time",
-    "hierarchy": "WTG003"
-  },
-  {
-    "Apr": 85.710833,
-    "Jan": 287.618771,
-    "Feb": 186.394365,
-    "Mar": 92.266389,
-    "May": 47.948889,
-    "display_name": "Total Alarm Duration",
-    "hierarchy": "WTG002"
-  },
-  {
-    "Apr": 65.532222,
-    "Jan": 39.255083,
-    "Feb": 30.974964,
-    "Mar": 73.095,
-    "May": 13.27,
-    "display_name": "Total Alarm Duration",
-    "hierarchy": "WTG003"
+    "Apr": 30.0,
+    "Jan": 31.0,
+    "Feb": 29.0,
+    "Mar": 31.0,
+    "May": 20.0,
+    "devices": [],
+    "display_name": "Number Of Days"
   },
   {
     "Apr": 178.465833,
@@ -216,80 +115,147 @@
     "Feb": 272.497004,
     "Mar": 194.6375,
     "May": 65.275833,
-    "display_name": "Total Alarm Duration",
-    "hierarchy": null
+    "devices": [
+      {
+        "Apr": 85.710833,
+        "Jan": 287.618771,
+        "Feb": 186.394365,
+        "Mar": 92.266389,
+        "May": 47.948889,
+        "device_name": "WTG002",
+        "display_name": "Total Alarm Duration"
+      },
+      {
+        "Apr": 65.532222,
+        "Jan": 39.255083,
+        "Feb": 30.974964,
+        "Mar": 73.095,
+        "May": 13.27,
+        "device_name": "WTG003",
+        "display_name": "Total Alarm Duration"
+      },
+      {
+        "Apr": 27.222778,
+        "Jan": 315.825888,
+        "Feb": 55.127675,
+        "Mar": 29.276111,
+        "May": 4.056944,
+        "device_name": "WTG001",
+        "display_name": "Total Alarm Duration"
+      }
+    ],
+    "display_name": "Total Alarm Duration"
   },
   {
-    "Apr": 27.222778,
-    "Jan": 315.825888,
-    "Feb": 55.127675,
-    "Mar": 29.276111,
-    "May": 4.056944,
-    "display_name": "Total Alarm Duration",
-    "hierarchy": "WTG001"
+    "Apr": 91.706177,
+    "Jan": 78.429406,
+    "Mar": 91.279682,
+    "Feb": 89.899026,
+    "May": 95.621111,
+    "devices": [
+      {
+        "Apr": 96.133495,
+        "Jan": 70.430889,
+        "Feb": 92.13845,
+        "Mar": 96.065039,
+        "May": 99.185625,
+        "device_name": "WTG001",
+        "display_name": "Time Based Availability"
+      },
+      {
+        "Apr": 88.098473,
+        "Mar": 87.598604,
+        "Feb": 82.032966,
+        "Jan": 70.111029,
+        "May": 90.341474,
+        "device_name": "WTG002",
+        "display_name": "Time Based Availability"
+      },
+      {
+        "Apr": 90.886562,
+        "Jan": 94.746299,
+        "Mar": 90.175403,
+        "Feb": 95.525663,
+        "May": 97.336233,
+        "device_name": "WTG003",
+        "display_name": "Time Based Availability"
+      }
+    ],
+    "display_name": "Time Based Availability"
   },
   {
-    "Apr": 169.668172,
-    "Jan": 200.601536,
-    "Feb": 218.408092,
-    "Mar": 162.781412,
-    "May": 69.012248,
-    "display_name": "Total Contractual Energy Loss",
-    "hierarchy": null
+    "Apr": 90.429124,
+    "Jan": 87.537388,
+    "Feb": 90.357643,
+    "Mar": 91.661492,
+    "May": 94.218056,
+    "devices": [
+      {
+        "Apr": 88.799952,
+        "Jan": 99.926498,
+        "Feb": 98.135181,
+        "Mar": 93.416619,
+        "May": 96.637141,
+        "device_name": "WTG003",
+        "display_name": "Energy Based Availability"
+      },
+      {
+        "Apr": 96.115144,
+        "Jan": 84.381292,
+        "Feb": 93.929721,
+        "Mar": 96.51107,
+        "May": 98.718116,
+        "device_name": "WTG001",
+        "display_name": "Energy Based Availability"
+      },
+      {
+        "Apr": 86.372275,
+        "Jan": 78.304374,
+        "Mar": 85.056788,
+        "May": 87.29891,
+        "Feb": 79.008027,
+        "device_name": "WTG002",
+        "display_name": "Energy Based Availability"
+      }
+    ],
+    "display_name": "Energy Based Availability"
   },
   {
-    "Apr": 77.410295,
-    "Feb": 158.810286,
-    "Jan": 114.95166,
-    "Mar": 95.868232,
-    "May": 50.102403,
-    "display_name": "Total Contractual Energy Loss",
-    "hierarchy": "WTG002"
-  },
-  {
-    "Apr": 70.25899,
-    "Feb": 14.336092,
-    "Jan": 0.411046,
-    "Mar": 44.853772,
-    "May": 13.860325,
-    "display_name": "Total Contractual Energy Loss",
-    "hierarchy": "WTG003"
-  },
-  {
-    "Apr": 21.998887,
-    "Jan": 85.238831,
-    "Feb": 45.261714,
-    "Mar": 22.059409,
-    "May": 5.049521,
-    "display_name": "Total Contractual Energy Loss",
-    "hierarchy": "WTG001"
-  },
-  {
-    "Apr": 60.0,
-    "Jan": 51.0,
-    "Feb": 70.0,
-    "Mar": 70.0,
-    "May": 58.0,
-    "display_name": "Total Count Of Alarms",
-    "hierarchy": "WTG002"
-  },
-  {
-    "Apr": 77.0,
-    "Jan": 4.0,
-    "Feb": 28.0,
-    "Mar": 79.0,
-    "May": 35.0,
-    "display_name": "Total Count Of Alarms",
-    "hierarchy": "WTG003"
-  },
-  {
-    "Apr": 55.0,
-    "Jan": 67.0,
-    "Feb": 19.0,
-    "Mar": 34.0,
-    "May": 12.0,
-    "display_name": "Total Count Of Alarms",
-    "hierarchy": "WTG001"
+    "Apr": 8.641534,
+    "Jan": 9.156027,
+    "Feb": 10.049577,
+    "Mar": 9.565807,
+    "May": 8.594546,
+    "devices": [
+      {
+        "Apr": 8.689971,
+        "Jan": 9.293852,
+        "Mar": 9.556743,
+        "May": 8.593328,
+        "Feb": 9.874682,
+        "device_name": "WTG002",
+        "display_name": "Wind Speed"
+      },
+      {
+        "Apr": 8.280519,
+        "Jan": 8.618882,
+        "Feb": 9.565253,
+        "Mar": 9.194922,
+        "May": 8.343834,
+        "device_name": "WTG003",
+        "display_name": "Wind Speed"
+      },
+      {
+        "Apr": 8.954112,
+        "Jan": 9.555348,
+        "Feb": 10.708795,
+        "Mar": 9.945755,
+        "May": 8.846478,
+        "device_name": "WTG001",
+        "display_name": "Wind Speed"
+      }
+    ],
+    "display_name": "Wind Speed"
   },
   {
     "Apr": 192.0,
@@ -297,116 +263,230 @@
     "Feb": 117.0,
     "Mar": 183.0,
     "May": 105.0,
-    "display_name": "Total Count Of Alarms",
-    "hierarchy": null
+    "devices": [
+      {
+        "Apr": 77.0,
+        "Jan": 4.0,
+        "Feb": 28.0,
+        "Mar": 79.0,
+        "May": 35.0,
+        "device_name": "WTG003",
+        "display_name": "Total Count Of Alarms"
+      },
+      {
+        "Apr": 60.0,
+        "Jan": 51.0,
+        "Feb": 70.0,
+        "Mar": 70.0,
+        "May": 58.0,
+        "device_name": "WTG002",
+        "display_name": "Total Count Of Alarms"
+      },
+      {
+        "Apr": 55.0,
+        "Jan": 67.0,
+        "Feb": 19.0,
+        "Mar": 34.0,
+        "May": 12.0,
+        "device_name": "WTG001",
+        "display_name": "Total Count Of Alarms"
+      }
+    ],
+    "display_name": "Total Count Of Alarms"
   },
   {
-    "Apr": 8.690577,
-    "Jan": 9.293852,
-    "Mar": 9.556743,
-    "May": 8.552791,
-    "Feb": 9.874682,
-    "display_name": "Wind Speed",
-    "hierarchy": "WTG002"
+    "Apr": 1761.8581,
+    "Jan": 1634.817582,
+    "Feb": 2270.922504,
+    "Mar": 1955.137169,
+    "May": 1200.546277,
+    "devices": [
+      {
+        "Apr": 627.309744,
+        "Jan": 559.231328,
+        "Feb": 768.76568,
+        "Mar": 681.31816,
+        "May": 412.158951,
+        "device_name": "WTG003",
+        "display_name": "Total Reference Energy"
+      },
+      {
+        "Apr": 566.272919,
+        "Feb": 745.62821,
+        "Jan": 545.748299,
+        "Mar": 632.268643,
+        "May": 393.914075,
+        "device_name": "WTG001",
+        "display_name": "Total Reference Energy"
+      },
+      {
+        "Apr": 568.275438,
+        "Jan": 529.837955,
+        "Feb": 756.528613,
+        "Mar": 641.550365,
+        "May": 394.473251,
+        "device_name": "WTG002",
+        "display_name": "Total Reference Energy"
+      }
+    ],
+    "display_name": "Total Reference Energy"
   },
   {
-    "Apr": 8.28103,
-    "Jan": 8.618882,
-    "Feb": 9.565253,
-    "Mar": 9.194922,
-    "May": 8.318992,
-    "display_name": "Wind Speed",
-    "hierarchy": "WTG003"
+    "Apr": 1558.090606,
+    "Jan": 1308.565551,
+    "Mar": 1730.493869,
+    "Feb": 1982.125204,
+    "May": 1109.21003,
+    "devices": [
+      {
+        "Apr": 593.725963,
+        "Jan": 358.6969,
+        "Feb": 713.532396,
+        "Mar": 608.136621,
+        "May": 403.001517,
+        "device_name": "WTG001",
+        "display_name": "Total Production"
+      },
+      {
+        "Apr": 535.131583,
+        "Jan": 396.354517,
+        "Mar": 565.947852,
+        "Feb": 552.862041,
+        "May": 351.814978,
+        "device_name": "WTG002",
+        "display_name": "Total Production"
+      },
+      {
+        "Apr": 429.23306,
+        "Jan": 553.514134,
+        "Feb": 715.730767,
+        "Mar": 556.409396,
+        "May": 354.393536,
+        "device_name": "WTG003",
+        "display_name": "Total Production"
+      }
+    ],
+    "display_name": "Total Production"
   },
   {
-    "Apr": 8.642075,
-    "Jan": 9.156027,
-    "Feb": 10.049577,
-    "Mar": 9.565807,
-    "May": 8.569674,
-    "display_name": "Wind Speed",
-    "hierarchy": null
+    "Jan": 96.714456,
+    "Mar": 93.309438,
+    "Feb": 97.06258,
+    "Apr": 98.287433,
+    "May": 99.252816,
+    "devices": [
+      {
+        "Jan": 93.234767,
+        "Mar": 97.311828,
+        "Feb": 99.952107,
+        "May": 99.230512,
+        "Apr": 98.449433,
+        "device_name": "WTG002",
+        "display_name": "Data Quality"
+      },
+      {
+        "Jan": 99.977599,
+        "Feb": 100.0,
+        "Mar": 94.310036,
+        "Apr": 98.333719,
+        "May": 99.263968,
+        "device_name": "WTG003",
+        "display_name": "Data Quality"
+      },
+      {
+        "Jan": 96.931004,
+        "Feb": 91.235632,
+        "Mar": 88.306452,
+        "Apr": 98.079148,
+        "May": 99.263968,
+        "device_name": "WTG001",
+        "display_name": "Data Quality"
+      }
+    ],
+    "display_name": "Data Quality"
   },
   {
-    "Apr": 8.95462,
-    "Jan": 9.555348,
-    "Feb": 10.708795,
-    "Mar": 9.945755,
-    "May": 8.837238,
-    "display_name": "Wind Speed",
-    "hierarchy": "WTG001"
+    "Apr": 1202.230406,
+    "May": 855.871937,
+    "devices": [
+      {
+        "Apr": 1202.230406,
+        "May": 855.871937,
+        "device_name": "WTG002",
+        "display_name": "Actual Capacity Factor"
+      },
+      {
+        "Apr": 1202.230406,
+        "May": 855.871937,
+        "device_name": "WTG003",
+        "display_name": "Actual Capacity Factor"
+      },
+      {
+        "Apr": 1202.230406,
+        "May": 855.871937,
+        "device_name": "WTG001",
+        "display_name": "Actual Capacity Factor"
+      }
+    ],
+    "display_name": "Actual Capacity Factor"
   },
   {
-    "Jan": 9.855,
-    "Feb": 1.555,
-    "Mar": 0.925,
-    "Apr": 0.850833,
-    "May": 0.378889,
-    "display_name": "Mean Time to Resolve Alarm",
-    "hierarchy": "WTG003"
+    "Apr": 1.005741,
+    "devices": [
+      {
+        "Apr": 0.842222,
+        "device_name": "WTG003",
+        "display_name": "mean_fault_resolve_time"
+      },
+      {
+        "Apr": 0.494722,
+        "device_name": "WTG001",
+        "display_name": "mean_fault_resolve_time"
+      },
+      {
+        "Apr": 1.680278,
+        "device_name": "WTG002",
+        "display_name": "mean_fault_resolve_time"
+      }
+    ],
+    "display_name": "mean_fault_resolve_time"
   },
   {
-    "Jan": 5.003333,
-    "Feb": 3.186667,
-    "Mar": 0.860833,
-    "Apr": 0.494722,
-    "May": 0.338056,
-    "display_name": "Mean Time to Resolve Alarm",
-    "hierarchy": "WTG001"
-  },
-  {
-    "Jan": 7.264444,
-    "Feb": 2.736852,
-    "Apr": 1.008611,
-    "Mar": 1.03463,
-    "May": 0.54213,
-    "display_name": "Mean Time to Resolve Alarm",
-    "hierarchy": null
-  },
-  {
-    "Feb": 3.468889,
-    "Mar": 1.318056,
-    "Apr": 1.680278,
-    "Jan": 6.935,
-    "May": 0.909444,
-    "display_name": "Mean Time to Resolve Alarm",
-    "hierarchy": "WTG002"
-  },
-  {
-    "Apr": 30.0,
-    "Jan": 31.0,
-    "Feb": 29.0,
-    "Mar": 31.0,
-    "May": 19.0,
-    "display_name": "Number Of Days",
-    "hierarchy": null
-  },
-  {
-    "Jan": 9.675556,
-    "Feb": 20.933611,
-    "Mar": 29.490556,
-    "Apr": 11.624722,
-    "May": 8.636389,
-    "display_name": "Mean Time Between Alarms",
-    "hierarchy": "WTG002"
-  },
-  {
-    "Jan": 338.543056,
-    "Feb": 47.143056,
-    "Mar": 17.648333,
-    "Apr": 10.045278,
-    "May": 12.211667,
-    "display_name": "Mean Time Between Alarms",
-    "hierarchy": "WTG003"
-  },
-  {
-    "Jan": 16.468056,
-    "Feb": 56.491667,
-    "Mar": 23.240833,
-    "Apr": 22.744444,
-    "May": 27.502222,
-    "display_name": "Mean Time Between Alarms",
-    "hierarchy": "WTG001"
+    "Apr": 179.146586,
+    "Mar": 194.6375,
+    "Feb": 210.908333,
+    "Jan": 481.455663,
+    "May": 65.617656,
+    "devices": [
+      {
+        "Apr": 85.690997,
+        "Jan": 222.373945,
+        "Feb": 125.050556,
+        "Mar": 92.266389,
+        "May": 48.244336,
+        "device_name": "WTG002",
+        "display_name": "Lost Production Time"
+      },
+      {
+        "Apr": 65.616755,
+        "Jan": 39.087535,
+        "Feb": 31.141389,
+        "Mar": 73.095,
+        "May": 13.305517,
+        "device_name": "WTG003",
+        "display_name": "Lost Production Time"
+      },
+      {
+        "Apr": 27.838834,
+        "Jan": 219.994183,
+        "Feb": 54.716389,
+        "Mar": 29.276111,
+        "May": 4.067803,
+        "device_name": "WTG001",
+        "display_name": "Lost Production Time"
+      }
+    ],
+    "display_name": "Lost Production Time"
   },
   {
     "Jan": 121.562222,
@@ -414,88 +494,72 @@
     "Mar": 23.459907,
     "Apr": 14.804815,
     "May": 16.116759,
-    "display_name": "Mean Time Between Alarms",
-    "hierarchy": null
+    "devices": [
+      {
+        "Jan": 9.675556,
+        "Feb": 20.933611,
+        "Mar": 29.490556,
+        "Apr": 11.624722,
+        "May": 8.636389,
+        "device_name": "WTG002",
+        "display_name": "Mean Time Between Alarms"
+      },
+      {
+        "Jan": 338.543056,
+        "Feb": 47.143056,
+        "Mar": 17.648333,
+        "Apr": 10.045278,
+        "May": 12.211667,
+        "device_name": "WTG003",
+        "display_name": "Mean Time Between Alarms"
+      },
+      {
+        "Jan": 16.468056,
+        "Feb": 56.491667,
+        "Mar": 23.240833,
+        "Apr": 22.744444,
+        "May": 27.502222,
+        "device_name": "WTG001",
+        "display_name": "Mean Time Between Alarms"
+      }
+    ],
+    "display_name": "Mean Time Between Alarms"
   },
   {
-    "Apr": 1761.759948,
-    "Jan": 1634.817582,
-    "Feb": 2270.922504,
-    "Mar": 1955.137169,
-    "May": 1117.24988,
-    "display_name": "Total Reference Energy",
-    "hierarchy": null
-  },
-  {
-    "Apr": 627.271145,
-    "Jan": 559.231328,
-    "Feb": 768.76568,
-    "Mar": 681.31816,
-    "May": 384.08852,
-    "display_name": "Total Reference Energy",
-    "hierarchy": "WTG003"
-  },
-  {
-    "Apr": 566.246082,
-    "Feb": 745.62821,
-    "Jan": 545.748299,
-    "Mar": 632.268643,
-    "May": 365.993511,
-    "display_name": "Total Reference Energy",
-    "hierarchy": "WTG001"
-  },
-  {
-    "Apr": 568.24272,
-    "Jan": 529.837955,
-    "Feb": 756.528613,
-    "Mar": 641.550365,
-    "May": 367.167849,
-    "display_name": "Total Reference Energy",
-    "hierarchy": "WTG002"
-  },
-  {
-    "Jan": 8.92,
-    "Feb": 9.71,
-    "Mar": 9.91,
-    "Apr": 9.33,
-    "May": 8.45,
-    "display_name": "Projected Wind Speed",
-    "hierarchy": null
-  },
-  {
-    "Apr": 429.206223,
-    "Jan": 553.514134,
-    "Feb": 715.730767,
-    "Mar": 556.409396,
-    "May": 326.574699,
-    "display_name": "Total Production",
-    "hierarchy": "WTG003"
-  },
-  {
-    "Apr": 1558.025171,
-    "Jan": 1308.565551,
-    "Mar": 1730.493869,
-    "Feb": 1982.125204,
-    "May": 1023.735996,
-    "display_name": "Total Production",
-    "hierarchy": null
-  },
-  {
-    "Apr": 593.687365,
-    "Jan": 358.6969,
-    "Feb": 713.532396,
-    "Mar": 608.136621,
-    "May": 374.85666,
-    "display_name": "Total Production",
-    "hierarchy": "WTG001"
-  },
-  {
-    "Apr": 535.131583,
-    "Jan": 396.354517,
-    "Mar": 565.947852,
-    "Feb": 552.862041,
-    "May": 322.304636,
-    "display_name": "Total Production",
-    "hierarchy": "WTG002"
+    "Jan": 7.264444,
+    "Feb": 2.736852,
+    "Apr": 1.008611,
+    "Mar": 1.03463,
+    "May": 0.54213,
+    "devices": [
+      {
+        "Jan": 9.855,
+        "Feb": 1.555,
+        "Mar": 0.925,
+        "Apr": 0.850833,
+        "May": 0.378889,
+        "device_name": "WTG003",
+        "display_name": "Mean Time to Resolve Alarm"
+      },
+      {
+        "Jan": 5.003333,
+        "Feb": 3.186667,
+        "Mar": 0.860833,
+        "Apr": 0.494722,
+        "May": 0.338056,
+        "device_name": "WTG001",
+        "display_name": "Mean Time to Resolve Alarm"
+      },
+      {
+        "Feb": 3.468889,
+        "Mar": 1.318056,
+        "Apr": 1.680278,
+        "Jan": 6.935,
+        "May": 0.909444,
+        "device_name": "WTG002",
+        "display_name": "Mean Time to Resolve Alarm"
+      }
+    ],
+    "display_name": "Mean Time to Resolve Alarm"
   }
 ]
